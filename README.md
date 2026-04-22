@@ -70,7 +70,7 @@ npm run dev
 
 ---
 
-<img width="1062" height="532" alt="WhatsApp Image 2026-04-23 at 04 43 52" src="https://github.com/user-attachments/assets/a76b6ad3-c853-4080-bc1b-8e3b5432b596" />
+<img width="1223" height="626" alt="Gemini_Generated_Image_sjhdf2sjhdf2sjhd" src="https://github.com/user-attachments/assets/6320270d-fe29-4a02-83af-feabf901a45c" />
 
 ---
 
