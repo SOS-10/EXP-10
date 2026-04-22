@@ -62,15 +62,15 @@ npm run dev
 
 ## 📸 Screenshots
 
-<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/c93764c0-542b-4bb8-b374-b76eff8d1dee" />
+<img width="1024" height="612" alt="image" src="https://github.com/user-attachments/assets/484e13f7-8d57-401d-bcae-9218f606d7e0" />
 
 ---
 
-<img width="1600" height="806" alt="image" src="https://github.com/user-attachments/assets/98e1b900-bf02-4ad2-9ae9-918630b904bd" />
+<img width="1062" height="532" alt="WhatsApp Image 2026-04-23 at 04 43 52" src="https://github.com/user-attachments/assets/6bb98a83-2c58-4225-bc19-884308c5b764" />
 
 ---
 
-<img width="736" height="440" alt="image" src="https://github.com/user-attachments/assets/1bd36113-101b-492c-8724-b28598595694" />
+<img width="1062" height="532" alt="WhatsApp Image 2026-04-23 at 04 43 52" src="https://github.com/user-attachments/assets/a76b6ad3-c853-4080-bc1b-8e3b5432b596" />
 
 ---
 
