@@ -1,0 +1,4 @@
+com\AML_3A\Websocketdemo\config\WebSocketConfig.class
+com\AML_3A\Websocketdemo\WebsocketdemoApplication.class
+com\AML_3A\Websocketdemo\controller\ChatController.class
+com\AML_3A\Websocketdemo\model\Message.class
